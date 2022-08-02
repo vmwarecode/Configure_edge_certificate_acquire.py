@@ -1,1 +1,0 @@
-# Configure_edge_certificate_acquire.py
